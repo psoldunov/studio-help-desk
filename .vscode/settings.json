@@ -24,12 +24,12 @@
     "@radix-ui/*",
     "vaul",
     "next/router.d.ts",
-    "next/dist/client/router.d.ts",
+    "next/dist/client/router.d.ts"
   ],
   "editor.codeActionsOnSave": {
     "source.organizeImports.biome": "explicit",
     "source.fixAll.biome": "explicit",
     "source.addMissingImports.ts": "explicit",
-    "source.removeUnusedImports": "explicit",
+    "source.removeUnusedImports": "explicit"
   }
 }
